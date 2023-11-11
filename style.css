@@ -1,0 +1,17 @@
+.view-switcher {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.view-switcher i {
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.view-switcher i:hover {
+  color: steelblue;
+}
